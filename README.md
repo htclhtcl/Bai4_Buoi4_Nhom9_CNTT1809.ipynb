@@ -26,6 +26,8 @@ sinh_so_tam_phan(2)
 print("\n--- Sinh số tam phân độ dài 3 ---")
 sinh_so_tam_phan(3)
 
+
+
 #bài 3.3.2
 import itertools
 
