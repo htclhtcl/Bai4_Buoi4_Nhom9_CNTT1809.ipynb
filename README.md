@@ -28,7 +28,7 @@ sinh_so_tam_phan(3)
 
 
 
-#bài 3.3.2
+#bài  4.4.2
 import itertools
 
 def liet_ke_hoan_vi(danh_sach_phan_tu):
